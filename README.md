@@ -1,1 +1,1 @@
-# End-to-End-ML-Project-On-Wine-Quality-Prediction-Using-MLFlow
+# End to End MLProject On Wine Quality Prediction Using MLFlow
