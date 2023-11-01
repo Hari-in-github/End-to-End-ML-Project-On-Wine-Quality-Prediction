@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-to-End-ML-Project-On-Wine-Quality-Prediction"
 AUTHOR_USER_NAME = "Hari-in-github"
-SRC_REPO = "Wine-quality-Mlproject"
+SRC_REPO = "WinequalityMlproject"
 AUTHOR_EMAIL = "harimanu9693@gmail.com"
 
 
